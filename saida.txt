@@ -1,0 +1,2 @@
+Coeficientes: [[0.73754918]]
+Intercepto: [-49.78382099]
